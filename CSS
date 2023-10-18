@@ -1,0 +1,243 @@
+.background-slide-1-child,
+.background-slide-1-item {
+    position: absolute;
+    top: 0;
+    left: 1129px;
+    background-color: black;
+    width: 791px;
+    height: 1080px;
+}
+
+.background-slide-1-item {
+    left: 0;
+    background-color: whitesmoke;
+    width: 1133px;
+}
+
+.group-child,
+.group-inner,
+.group-item,
+.rectangle-div {
+    position: absolute;
+    top: 46.75px;
+    left: 82.19px;
+    background-color: yellow;
+    width: 383.31px;
+    height: 69.29px;
+    transform: rotate(-7deg);
+    transform-origin: 0 0;
+}
+
+.group-inner,
+.group-item,
+.rectangle-div {
+    top: 312.58px;
+    left: 0;
+    width: 620.93px;
+}
+
+.group-inner,
+.rectangle-div {
+    top: 49.98px;
+    left: 82.56px;
+    width: 564.42px;
+    height: 64.66px;
+    transform: rotate(19.03deg);
+}
+
+.rectangle-div {
+    top: 324.5px;
+    left: 32.27px;
+    width: 768.75px;
+}
+
+.rectangle-parent {
+    position: absolute;
+    top: 148px;
+    left: 1161px;
+    width: 759px;
+    height: 635.57px;
+}
+
+.background-slide-1 {
+    position: relative;
+    width: 100%;
+    height: 1080px;
+}
+
+
+.girl-image {
+    position: relative;
+    width: 100%;
+    height: 880px;
+    background-image: url("https://i.ibb.co/LY9qCmH/Girl-Image-2-1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    mix-blend-mode: normal;
+
+}
+
+
+.box {
+    width: 154px;
+    height: 53px;
+    text-align: left;
+}
+
+.box .rectangle {
+    position: relative;
+    width: 154px;
+    height: 53px;
+    top: 0;
+    left: 0;
+    background-color: #ddf252;
+    border-radius: 10px;
+}
+
+.rectangle-div1 {
+    position: relative;
+    border-radius: 8px;
+    border: 2px solid gray;
+    box-sizing: border-box;
+    width: 20%;
+    height: 40px;
+}
+
+.logo {
+    position: relative;
+    font-size: 26px;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-family: Sans-Serif;
+    color: black;
+    text-align: center;
+
+}
+
+
+.home {
+    position: relative;
+    font-size: 20px;
+    font-family: Sans-Serif;
+    color: black;
+    text-align: left;
+
+}
+
+.why-autralia {
+    position: relative;
+    font-size: 20px;
+    font-family: Sans-Serif;
+    color: black;
+    text-align: left;
+}
+
+.why-us {
+    position: relative;
+    font-size: 20px;
+    font-family: Sans-Serif;
+    color: black;
+    text-align: left;
+}
+
+.testimonials {
+    position: relative;
+    font-size: 20px;
+    font-family: Sans-Serif;
+    color: black;
+    text-align: left;
+}
+
+.container {
+    display: flex;
+    justify-content: flex-start;
+
+    padding: 17px;
+}
+
+.discover-the-land {
+    position: relative;
+    font-size: 20px;
+    font-family: roboto;
+    color: black;
+    text-align: left;
+    padding: 20px;
+    margin: 20px;
+}
+
+
+.discover-your {
+    margin: 0;
+}
+
+.discover-your-dream-container {
+    position: relative;
+    font-size: 90px;
+    font-family: Sans-Serif;
+    color: black;
+    text-align: left;
+    margin: 20px;
+}
+
+.our-website-offers {
+    margin: 0;
+}
+
+.our-website-offers-container {
+    position: relative;
+    font-size: 25px;
+    font-family: roboto;
+    color: black;
+    text-align: left;
+    margin: 20px;
+
+}
+
+
+.register-now {
+    position: relative;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Sans-Serif;
+    color: white;
+    text-align: left;
+    margin: 28px;
+    background-color: black;
+    width: 24%;
+    height: 70px;
+    border-radius: 5px;
+}
+
+.register-now1 {
+    position: relative;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Sans-Serif;
+    color: black;
+    text-align: left;
+    margin: 28px;
+    border-radius: 5px;
+    border: 2px solid gray;
+    box-sizing: border-box;
+    width: 24%;
+    height: 70px;
+    background-color: white;
+}
+
+.ellipse-div4 {
+    position: relative;
+    border-radius: 50%;
+    background-color: gainsboro;
+    border: 5px solid whitesmoke;
+    box-sizing: border-box;
+    width: 5%;
+    height: 80px;
+    margin: 28px;
+}
+
+
+.container1 {
+    display: flex;
+    justify-content: flex-start;
+}
